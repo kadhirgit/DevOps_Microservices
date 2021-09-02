@@ -1,4 +1,4 @@
-<<https://circleci.com/gh/kadhirgit/DevOps_Microservices.svg?style=svg>>
+[![kadhirgit](https://circleci.com/gh/kadhirgit/DevOps_Microservices.svg?style=svg)]
 
 ## Project Overview
 
