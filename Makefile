@@ -14,7 +14,7 @@ install:
 	# This should be run from inside a virtualenv
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
-	pip install hadolint
+	pip install hadolintw
 
 test:
 	# Additional, optional, tests could go here
